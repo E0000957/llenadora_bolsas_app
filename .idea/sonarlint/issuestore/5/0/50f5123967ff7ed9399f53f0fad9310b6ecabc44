@@ -1,0 +1,21 @@
+
+Tkotlin:S6619j"0Remove this useless null check, it always fails.(Ó­å„ûÿÿÿÿ8ÊîÖìÏ2
+Ckotlin:S125Ç"Remove this commented out code.(¿Ø‹Äşÿÿÿÿ8ÎîÖìÏ2
+<kotlin:S6310›"Avoid hardcoded dispatchers.(Í¡·Ş8ÜîÖìÏ2
+<kotlin:S6310Ê"Avoid hardcoded dispatchers.(Í¡·Ş8ÜîÖìÏ2
+<kotlin:S6310§"Avoid hardcoded dispatchers.(Í¡·Ş8ÜîÖìÏ2
+<kotlin:S6310Ø"Avoid hardcoded dispatchers.(Í¡·Ş8İîÖìÏ2
+<kotlin:S6310"Avoid hardcoded dispatchers.(Í¡·Ş8İîÖìÏ2
+<kotlin:S6310¸"Avoid hardcoded dispatchers.(Í¡·Ş8İîÖìÏ2
+Zkotlin:S1144"5Remove this unused private "connectToDevice2" method.(¢İê–ÿÿÿÿÿ8ãîÖìÏ2
+Hkotlin:S108")Either remove or fill this block of code.(¼ÑüÉ8ÿîÖìÏ2
+Vkotlin:S1481€"6Remove this unused "deviceMutableList" local variable.(‘îÇÿ8’ïÖìÏ2
+>kotlin:S1128"Remove this unused import.(„Ôæşÿÿÿÿ8ïÖìÏ2
+Gkotlin:S1874h"#Deprecated code should not be used.(Ëİüÿÿÿÿ8§ïÖìÏ2
+wkotlin:S3776’"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(ŠØæÙÿÿÿÿÿ8©ïÖìÏ2
+jkotlin:S6516Y"LReplace explicit functional interface implementation with lambda expression.(‰Š˜D8»ïÖìÏ2
+zkotlin:S1186¬"ZAdd a nested comment explaining why this function is empty or complete the implementation.(¸ï¸²8¼ïÖìÏ2
+zkotlin:S1186Ã"ZAdd a nested comment explaining why this function is empty or complete the implementation.(¸ï¸²8¼ïÖìÏ2
+zkotlin:S1186Ú"ZAdd a nested comment explaining why this function is empty or complete the implementation.(¸ï¸²8¼ïÖìÏ2
+zkotlin:S1186ñ"ZAdd a nested comment explaining why this function is empty or complete the implementation.(¸ï¸²8½ïÖìÏ2
+zkotlin:S1186ˆ"ZAdd a nested comment explaining why this function is empty or complete the implementation.(¸ï¸²8½ïÖìÏ2

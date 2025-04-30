@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/azulOscuro</item>
+        <item name="colorPrimaryVariant">@color/azulAcento</item>
+        <item name="colorOnPrimary">@color/blanco</item>
+        <item name="android:windowBackground">@color/fondoClaro</item>
+        <item name="cardBackgroundColor">@color/blanco</item>
+        <item name="android:textColorPrimary">@color/azulOscuro</item>
+        <item name="android:textColorSecondary">@color/grisOscuro</item>
+        <item name="android:colorAccent">@color/azulAcento</item>
+        <item name="android:textColorHint">@color/grisOscuro</item>
+        <item name="android:statusBarColor">@color/azulOscuro</item> <!-- Cambia el color de la barra de estado -->
+
+    </style>
+
+    <style name="CustomTextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/azulAcento</item> <!-- Color del borde al seleccionar -->
+        <item name="boxBackgroundColor">@color/fondoClaro</item> <!-- Fondo claro de los inputs -->
+        <item name="android:textColorHint">@color/grisOscuro</item> <!-- Color de la pista -->
+    </style>
+
+</resources>
